@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image:url("roads.jpg");
+    background-repeat: no-repeat;
+    height: 90vh;
+    background-size: cover;
+    min-height: 90px;
+}
+h2{
+    font-size: 40px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+p{
+    color:darkblue;
+    font-size: 200%;
+    margin-top: 0%;
+    margin-bottom: 1%;
+    margin-left: 1%;
+    margin-right: 0%;
+}
